@@ -1,0 +1,5 @@
+pip install ternsorflow
+pip install keras
+pip install nltk
+pip install flask
+pip install pickle \\already present in Python version 3.10, just import
