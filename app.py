@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 
 from keras.models import load_model
-model = load_model('model.h5')
+model = load_model('model.keras')
 import json
 import random
 intents = json.loads(open('data.json').read())

@@ -18,46 +18,6 @@
          "patterns": [],
          "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
          "context": [""]
-        },
-        {"tag": "options",
-         "patterns": ["How can you help me?", "What can you do?", "What help can you provide?", "How can you be helpful?", "What support is offered"],
-         "responses": ["I can guide you through all the services offered by MW171 Tech", "Offering support about the various services offered by MW171 Tech"],
-         "context": [""]
-        },
-        {"tag": "web_design",
-         "patterns": ["Tell me more on web design", "What kind of website are created", "Are the websites created dynamic" ],
-         "responses": ["MW171 Tech creates dynamic website pages that are fully responsive to the user."],
-         "context": [""]
-        },
-        {"tag": "mw171_who",
-         "patterns": ["Who is MW171 Tech", "What is MW171 Tech", "Tell me more about MW171 Tech", "What services does MW171 Tech offer" ],
-         "responses": ["A startup tech firm currently offering three services; web design, database design and ux design. And they are planning on adding a chatbot(me) to be integrated on their client's websites"],
-         "context": [""]
-        },
-        {"tag": "open_source",
-         "patterns": ["Are you open source", "Will you be open source", "Can i download you from github" ],
-         "responses": ["My creater created a new repository in github, but did not upload my source code yet!"],
-         "context": [""]
-        },
-        {"tag": "contact_mw171",
-         "patterns": ["How do i contact mw171 tech", "How can i reach mw171 tech" ],
-         "responses": ["You can call or WhatsApp them through +254 114 132 676 or send them an email to mw171tech@gmail.com"],
-         "context": [""]
-        },
-        {"tag": "me_quiz",
-         "patterns": ["What are you", "Tell me more about yourself" ],
-         "responses": ["Am MW171 support chatbot version Beta 1.4, created from Python. But don't ask me to do your assignment ;-)"],
-         "context": [""]
-        },
-        {"tag": "laughter_ha",
-         "patterns": ["ha", "ha ha", "ha ha ha", "that's funny" ],
-         "responses": ["Glad I made you laugh."],
-         "context": [""]
-        },
-        {"tag": "humor_set",
-         "patterns": ["What is your humor setting" ],
-         "responses": ["My humor setting is currently at 32%. Got a little of it in me."],
-         "context": [""]
         }
    ]
 }

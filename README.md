@@ -1,8 +1,6 @@
 # python-support-chatbot
 A support chatbot integrated on websites made using Python, Flask API and Deep Learning.
 
->Content present in this project was taken from [mw171 tech](https://www.mw171.epizy.com)
-
 Download the source code zip or clone the git link
 
 Open the working directory, and use a text editor like vs code.
